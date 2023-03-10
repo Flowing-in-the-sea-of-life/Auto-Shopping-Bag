@@ -1,0 +1,35 @@
+Enqueue Orange
+Size: 1
+Orange
+
+Enqueue Mango
+Size: 2
+Orange
+Mango
+
+Enqueue Guava
+Size: 3
+Orange
+Mango
+Guava
+
+Dequeue
+Size: 2
+Mango
+Guava
+
+Dequeue
+Size: 1
+Guava
+
+Enqueue Strawberry
+Size: 2
+Guava
+Strawberry
+
+Enqueue Lemon
+Size: 3
+Guava
+Strawberry
+Lemon
+

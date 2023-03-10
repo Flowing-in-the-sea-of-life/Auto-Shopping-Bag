@@ -1,0 +1,77 @@
+Enqueue Orange
+Size: 1
+Orange
+
+Enqueue Mango
+Size: 2
+Orange
+Mango
+
+Enqueue Guava into full queue
+Size: 2
+Orange
+Mango
+
+Dequeue
+Size: 1
+Mango
+
+Dequeue
+Size: 0
+
+Enqueue Strawberry
+Size: 1
+Strawberry
+
+Enqueue Lemon
+Size: 2
+Strawberry
+Lemon
+
+Resize and Enqueue Banana
+Size: 3
+Strawberry
+Lemon
+Banana
+
+Resize
+Size: 3
+Strawberry
+Lemon
+Banana
+
+Enqueue Orange
+Size: 1
+Orange
+
+Enqueue Mango
+Size: 2
+Orange
+Mango
+
+Enqueue Guava
+Size: 3
+Orange
+Mango
+Guava
+
+Dequeue
+Size: 2
+Mango
+Guava
+
+Dequeue
+Size: 1
+Guava
+
+Enqueue Strawberry
+Size: 2
+Guava
+Strawberry
+
+Enqueue Lemon
+Size: 3
+Guava
+Strawberry
+Lemon
+
